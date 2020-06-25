@@ -1,0 +1,4 @@
+Corpus Christi, 79,AM Thunderstorms
+Austin, 76, Partly Cloudy
+Dallas, 65, Sunny
+El Paso, 67, Sunny
